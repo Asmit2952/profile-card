@@ -31,3 +31,30 @@ html, body {
   border-radius: 15px 15px 0px 0px;
 }
 
+.img-area img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.name-area {
+  text-align: center;
+  padding: 20px;
+  line-height: 28px;
+}
+
+.name-area h2 {
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+.name-area h4 {
+  color: #F3BF99;
+  font-weight: 400;
+}
+
+.name-area h5, a {
+  color: #FFFFFF;
+  font-weight: 100;
+  text-decoration: none;
+}
