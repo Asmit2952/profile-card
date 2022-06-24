@@ -39,7 +39,7 @@ html, body {
 
 .name-area {
   text-align: center;
-  padding: 20px;
+  padding: 13px;
   line-height: 28px;
 }
 
@@ -58,3 +58,12 @@ html, body {
   font-weight: 100;
   text-decoration: none;
 }
+
+.btn-container {
+  text-align: center;
+}
+
+button {
+  font-family: inherit;
+}
+
