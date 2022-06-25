@@ -101,7 +101,7 @@ button {
 
 .about-container {
   color: #FFFFFF;
-  padding: 25px;
+  padding: 25px 25px 10px 25px;
   line-height: 20px;
 }
 
@@ -110,6 +110,23 @@ button {
 }
 
 .about-container p {
+  font-size: 14px;
+  padding: 10px;
+}
+
+/* Interests */
+
+.interest-container {
+  color: #FFFFFF;
+  padding: 10px 25px 25px 25px;
+  line-height: 20px;
+}
+
+.interest-container h3 {
+  padding: 8px;
+}
+
+.interest-container p {
   font-size: 14px;
   padding: 10px;
 }
