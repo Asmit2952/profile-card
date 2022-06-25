@@ -132,6 +132,8 @@ button {
   padding: 10px;
 }
 
+/* Footer */
+
 .footer-container {
   display: flex;
   align-items: center;
@@ -143,6 +145,7 @@ button {
 .icon {
   font-size: 40px;
   color: #918E9B;
+  transition: all 0.3s ease-in-out;
 }
 
 .gh:hover {
@@ -150,7 +153,7 @@ button {
 }
 
 .twt:hover {
-  color: #1DA1F2
+  color: #1DA1F2;
 }
 
 .lin:hover {
