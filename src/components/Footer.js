@@ -8,10 +8,10 @@ import {  faSquareArrowUpRight } from '@fortawesome/free-solid-svg-icons'
 export default function Header() {
     return (
         <div className="footer-container">
-            <a href="https://github.com/Asmit2952" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithubSquare} className="icon" /></a>
-            <a href="https://twitter.com/Asmit_2952" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faTwitterSquare} className="icon" /></a>
-            <a href="https://www.linkedin.com/in/asmit-malakannawar/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} className="icon" /></a>
-            <a href="https://asmit.bio.link/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faSquareArrowUpRight} className="icon" /></a>
+            <a href="https://github.com/Asmit2952" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithubSquare} className="icon gh" /></a>
+            <a href="https://twitter.com/Asmit_2952" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faTwitterSquare} className="icon twt" /></a>
+            <a href="https://www.linkedin.com/in/asmit-malakannawar/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} className="icon lin" /></a>
+            <a href="https://asmit.bio.link/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faSquareArrowUpRight} className="icon ext-li" /></a>
         </div>
     )
 }

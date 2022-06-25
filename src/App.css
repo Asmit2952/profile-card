@@ -144,3 +144,19 @@ button {
   font-size: 40px;
   color: #918E9B;
 }
+
+.gh:hover {
+  color: #6CC644;
+}
+
+.twt:hover {
+  color: #1DA1F2
+}
+
+.lin:hover {
+  color: #0077B5;
+}
+
+.ext-li:hover {
+  color: #D20962;
+}
